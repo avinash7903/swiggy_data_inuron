@@ -1,0 +1,119 @@
+,Shop_Name,Cuisine,Location,Rating,Cost_for_Two,area_divided
+0,Kanti Sweets,Sweets,"Koramangala, Koramangala",4.3,150, Koramangala
+1,Mumbai Tiffin,"North Indian, Home Food, Thalis, Combo","Sector 5, HSR",4.4,400, HSR
+2,Sri Krishna sagar,"South Indian, North Indian, Fast Food, Beverages, Jain","6th Block, Koramangala",4.1,126, Koramangala
+3,Al Daaz,"American, Arabian, Chinese, Desserts, Fast Food, Mughlai, North Indian","HSR, HSR",4.4,400, HSR
+4,Beijing Bites,"Chinese, Thai","5th Block, Koramangala",4.1,450, Koramangala
+5,Kitchens of Punjab,North Indian,"Koramangala 4th  Block, Koramangala",4.2,350, Koramangala
+6,99 VARIETY DOSA AND PAV BHAJI- Malli Mane Food Court,"Fast Food, North Indian, Chinese","BTM 2nd Stage, BTM",4.1,200, BTM
+7,La Pino'z Pizza,Italian,"BTM, BTM",3.9,500, BTM
+8,Hotel Manu,"South Indian, Kerala, Chinese, North Indian","HSR, HSR",4.1,350, HSR
+9,Yumlane Pizza,"Pizzas, Italian, Mexican","9th Main road, Koramangala",3.8,150, Koramangala
+10,Ambur Star Briyani,"Chinese, South Indian, North Indian, Desserts, Fast Food, Kerala, Andhra, Beverages, Mughlai, Seafood","outer ring road, BTM",4.1,500, BTM
+11,Cake Box,Desserts,"Koramangala, Koramangala",4.0,247, Koramangala
+12,Meghana Foods,"Chinese, Andhra, Biryani, Seafood","5th Block, Koramangala",4.3,550, Koramangala
+13,Momoz,Chinese,"5th Block, Koramangala",4.3,450, Koramangala
+14,A2B - Adyar Ananda Bhavan,"South Indian, Chinese, Desserts, North Indian","7th Block, Koramangala",4.2,450, Koramangala
+15,Shawarma Inc,"Arabian, Fast Food","1st MAin, Koramangala",4.1,150, Koramangala
+16,WarmOven Cake & Desserts,"Desserts, Beverages","Koramangala, Koramangala",4.1,200, Koramangala
+17,Sri Lakshmi Dhaba,North Indian,"Bommanahalli, BTM",3.7,200, BTM
+18,Falahaar & Kota Kachori,North Indian,"6th block, Koramangala",4.2,300, Koramangala
+19,Shree Khana Khazana,"Indian, Rajasthani","Sector 4, HSR",4.1,350, HSR
+20,Just Bake - Cakes & confectioners,"Desserts, Bakery","BTM 1st stage, BTM",4.3,300, BTM
+21,Maa Di Hatti,"Chinese, Healthy Food, North Indian","Jakkasandra Extn, Koramangala",4.0,129, Koramangala
+22,Hotel Godavari,"North Indian, Chinese, Hyderabadi","Marutinagar Main Road, BTM",4.0,400, BTM
+23,Rolls On Wheels,Fast Food,"1st Block, Koramangala",4.1,300, Koramangala
+24,New Udupi Grand,"Chinese, Jain, North Indian, South Indian","HSR, HSR",4.3,150, HSR
+25,Swad Punjab da,Indian,"BTM, BTM",4.1,250, BTM
+26,Rice Bowl,"North Indian, South Indian, Chinese","6th Block, Koramangala",4.1,250, Koramangala
+27,High N Hungry,"Andhra, Biryani, Chinese, Desserts, Fast Food, Seafood, South Indian","4th Cross, BTM",4.1,350, BTM
+28,Burger King,"American, Fast Food","7th Block, Koramangala",3.9,350, Koramangala
+29,Nandhana Palace,"Biryani, Seafood, North Indian, Chinese, Desserts, Andhra, South Indian","Koramangala, Koramangala",4.0,500, Koramangala
+30,Easy Bites,"Snacks, American","koramangala, Koramangala",3.9,200, Koramangala
+31,Bengali Fun Foods,North Indian,"BTM 2nd stage, BTM",4.2,300, BTM
+32,Madurai Idly Shop,South Indian,"6th Block, Koramangala",4.0,150, Koramangala
+33,Oottupura,"Kerala, South Indian","BTM, BTM",4.3,268, BTM
+34,Taco Bell,Mexican,"6th Block, Koramangala",4.3,600, Koramangala
+35,Hyderabadi Biryani Hub,"North Indian, Chinese, Biryani","3rd main, BTM",3.9,450, BTM
+36,Biriyani Zone,"North Indian, Chinese, Biryani","HSR 1st sector, HSR",4.1,600, HSR
+37,Gongura's,"North Indian, Chinese, Biryani","Sector 7, HSR",3.8,300, HSR
+38,Bathinda Junction,North Indian,"5th Block, Koramangala",4.1,250, Koramangala
+39,Leon Grill,"Turkish, Portuguese, American","3rd Sector, HSR",4.3,300, HSR
+40,Venu's Donne Biryani,Biryani,"Chocolate Factory Road, BTM",4.3,300, BTM
+41,Cakewala,Desserts,"HSR, HSR",4.3,450, HSR
+42,Swadista Aahar,"South Indian, Snacks, North Indian, Chinese","16th Main Road, 2nd Stage, BTM",4.1,250, BTM
+43,Cream Stone,Desserts,"5th Block, Koramangala",4.3,250, Koramangala
+44,Svadu Pure Ghee Sweets,"Desserts, Fast Food, Sweets, Chaat","1st Stage, BTM",4.1,200, BTM
+45,Sai Abhiruchi,"Chinese, South Indian, Andhra, Hyderabadi","BTM, BTM",3.7,250, BTM
+46,Pizza Hut,"Pizzas, Fast Food","Hosur Main Road, Koramangala",4.0,600, Koramangala
+47,Hyderabad Biryaani House,"Biryani, Mughlai, South Indian","1st Cross Road, 5th Block, Near Jyothi Nivas College, Koramangala",4.0,350, Koramangala
+48,China Pearl,"Chinese, Asian","6th Block, Koramangala",4.4,527, Koramangala
+49,Balaji's Veg,"North Indian, Chinese, South Indian","Mico Layout, BTM",4.1,300, BTM
+50,Onesta,"Italian, Desserts, Pizzas","4th Cross, Koramangala",3.7,250, Koramangala
+51,Donne Biryani Mandi,"Biryani, Andhra, South Indian","BTM, BTM",4.0,150, BTM
+52,FreshMenu,"Chinese, Continental, Italian, Mediterranean, Thai, Lebanese, American, Asian, Beverages, Bakery, Biryani, Cafe, Desserts, Healthy Food, Mexican, North Indian, Salads, Pizzas","1st Block, Koramangala",3.9,350, Koramangala
+53,Donne Biryani House,Biryani,"7th Block, Koramangala",4.1,130, Koramangala
+54,Pipabu,"Pizzas, Chinese, Pastas, Salads, American, Continental","4th Block, Koramangala",4.1,257, Koramangala
+55,Sharmas punjabi restaurant,North Indian,"1st Block, Koramangala",4.1,200, Koramangala
+56,KFC,"American, Fast Food","Intermediate Ring Road, Koramangala",4.3,400, Koramangala
+57,Donne Biriyani House,South Indian,"3rd sector, HSR",4.0,300, HSR
+58,Nanda's,"Andhra, Biryani","HSR, HSR",4.0,400, HSR
+59,Sagar fast food,"Chinese, South Indian, North Indian, Fast Food","8TH BLOCK, Koramangala",4.3,200, Koramangala
+60,calicut cafe restaurant,"Fast Food, Beverages","BTM, BTM",4.1,280, BTM
+61,Cake Garden,"Desserts, Bakery","HSR, HSR",3.9,250, HSR
+62,Biryanis and more,"Biryani, South Indian, North Indian, Fast Food, Andhra, Beverages, Mughlai, Seafood, Punjabi, Hyderabadi, Chinese","4th b cross, Koramangala",4.1,399, Koramangala
+63,Biryani Khazana,Biryani,"Koramangala, Koramangala",4.3,400, Koramangala
+64,800 Momos,Chinese,"Koramangala, Koramangala",3.7,150, Koramangala
+65,World of asia,"Beverages, Chinese","BTM, BTM",4.0,250, BTM
+66,Ghar Ka Khana,North Indian,"BTM, BTM",4.2,220, BTM
+67,Thalassery Restaurant,"South Indian, Biryani, Kerala, North Indian, Chinese","5th Block, Koramangala",3.9,300, Koramangala
+68,KANNUR FOOD POINT,"Kerala, Chinese","SG palaya, BTM",3.9,300, BTM
+69,KANNOOR RESTAURANT,"North Indian, Chinese","BTM, BTM",4.0,250, BTM
+70,Fattoush,"Arabian, Beverages, Biryani, Chinese, Desserts, North Indian","BTM, BTM",3.9,400, BTM
+71,Nizams Biryani,"Biryani, Juices, Kebabs","Venkatapura Main Rd, Teacher's Colony, Jakkasandra, HSR",3.6,200, HSR
+72,Nagarjuna,"Andhra, South Indian","KHB Colony, Koramangala",4.3,600, Koramangala
+73,Punjabi Rasoi,North Indian,"Sector 3, HSR",4.0,800, HSR
+74,CRAVY WINGS - The American Diner,"American, Fast Food","Bannerghatta Road, Jayanagar",4.3,300, Jayanagar
+75,Barista,"Beverages, Cafe, Snacks","80 Feet Peripheral Road, Koramangala",3.8,350, Koramangala
+76,BIRIYANI TASTE MASTH(BTM),"North Indian, South Indian","Btm, BTM",4.2,300, BTM
+77,Leon Grill,"Turkish, Portuguese, American, Grill","5th Block, Koramangala",4.3,300, Koramangala
+78,Khichdi Experiment,"Home Food, Healthy Food, Indian","Koramangala, Koramangala",4.8,200, Koramangala
+79,Tandoori Merchant,"Andhra, Biryani, Chinese, Desserts, Fast Food, Seafood, South Indian","4th Cross, BTM",4.2,100, BTM
+80,Chinese Bae,"Chinese, Thai","BTM, BTM",4.5,450, BTM
+81,Kitchens of China,Chinese,"Koramangala, Koramangala",4.1,350, Koramangala
+82,Natural Ice Cream,Ice Cream,"Near Wipro Park Signal, Koramangala",4.6,150, Koramangala
+83,Abhiruchi Hotel,"Chinese, Hyderabadi, Biryani, Indian, South Indian, Andhra, Tandoor","BTM, BTM",4.0,250, BTM
+84,Punjabi Swag,"Punjabi, North Indian, Chinese, Fast Food, Healthy Food, Mughlai, Desserts","16th Main Road, BTM",3.7,400, BTM
+85,Truffles,American,"5th Block, Koramangala",4.3,450, Koramangala
+86,Gyaani Da Punjabi Dhaba,North Indian,"2nd Stage, BTM",4.0,500, BTM
+87,Biriyani Bhatti,"Biryani, Hyderabadi, Andhra, North Indian, South Indian","Kuvempu Nagar, Stage 2, BTM",4.1,350, BTM
+88,Khawa Karpo,Chinese,"Koramangala, Koramangala",4.3,178, Koramangala
+89,99 VARIETY DOSA AND JUICE-Malli mane food court,"Fast Food, Juices, North Indian","Koramangala 1st block, Koramangala",4.1,100, Koramangala
+90,Purani Dilli By Anand Sweets,"North Indian, Chaat, Snacks, Fast Food","5th Block, Koramangala",4.3,400, Koramangala
+91,XO Belgian Waffle,Desserts,"Koramangala, Koramangala",4.3,250, Koramangala
+92,BIRYANI CRAFTS,Indian,"BTM, BTM",4.1,500, BTM
+93,Madeena Hotel,"Desserts, Mughlai, Seafood","5th Block Kormangala, Koramangala",4.1,500, Koramangala
+94,Corner House Ice Cream,"Ice Cream, Desserts","7th Block, Koramangala",4.6,250, Koramangala
+95,NIC Natural Ice Creams,"Ice Cream, Desserts","Koramangla, Koramangala",4.2,120, Koramangala
+96,Just Shawarma,Fast Food,"5th block, Koramangala",4.0,250, Koramangala
+97,La Pino'z Pizza,Italian,"4th Block, Koramangala",3.9,251, Koramangala
+98,Mandya Gowdru Donne Biryani,Biryani,"HSR, HSR",0.0,350, HSR
+99,Dindigul Thalapakatti Biriyani,North Indian,"HSR, HSR",4.1,650, HSR
+100,Delhi Food Point,North Indian,"1st Block, Koramangala",4.1,132, Koramangala
+101,Easy Bites,"Snacks, American","9th Main Rd, Sector 6, HSR Layout, HSR",3.8,200, HSR
+102,Mad Over Donuts,Desserts,"7th Block, Koramangala",3.9,350, Koramangala
+103,Village Donne Biriyani,South Indian,"Koramangala, Koramangala",3.6,300, Koramangala
+104,R.B Food Point,"Chinese, North Indian","Jay Bheema Nagar, BTM",3.7,350, BTM
+105,Paradise Biryani,"Biryani, Kebabs","Koramangala 6th block, Koramangala",4.0,300, Koramangala
+106,New Tasty Cafeteria,"Andhra, Chettinad, Chinese, Mughlai, North Indian","Maruthi Nagar, BTM",4.0,350, BTM
+107,Junior Kuppanna,"Chettinad, South Indian","Sector 6, HSR",4.0,550, HSR
+108,The Bowl Company,"Continental, Indian, Pan-Asian, Oriental","Jakkasandra Village, Koramangala",4.3,350, Koramangala
+109,Hotel Savitha Family Restaurant,"North Indian, South Indian","4th block, Koramangala",4.0,153, Koramangala
+110,Biryani Pot,"North Indian, Biryani","Madiwala Junction, BTM",4.0,500, BTM
+111,Bowl 99,"North Indian, South Indian","kormangala, Koramangala",4.4,200, Koramangala
+112,Kritunga,"Andhra, Biryani","5th Block, Koramangala",3.9,500, Koramangala
+113,Wok Paper Scissors,"Pan-Asian, Chinese, Asian","JNC Road, Koramangala",3.9,219, Koramangala
+114,Savoury Restaurant,"Arabian, Middle Eastern, North Indian, Grill, Seafood, Kerala, Chinese","Madiwala, BTM",4.1,600, BTM
+115,Royal Treat,"North Indian, Chinese, Seafood, Biryani","5th block Koramangala, Koramangala",4.2,193, Koramangala
+116,Thali 99,North Indian,"Koramangala, Koramangala",4.3,200, Koramangala
+117,Mani's Dum Biryani,"Andhra, Biryani","1st Block, Koramangala",4.2,400, Koramangala
