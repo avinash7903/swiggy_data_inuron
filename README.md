@@ -3,6 +3,7 @@
 In this project, we talk about the food delivery app Swiggy dataset and analysis it
 
 Problem Statement:
+
 The online food ordering market includes foods prepared by restaurants, prepared by
 independent people, and groceries being ordered online and then picked up or delivered.
 The first online food ordering service, World Wide Waiter (now known as Waiter.com),
@@ -11,20 +12,11 @@ or other application. The product can be either ready-to-eat food or food that h
 specially prepared for direction consumption.
 
 tools i use:
+
 Jupyter Notebook is used as code.
 Pandas is used for Data Pre-processing.
 python for coding 
 For visualization of the Matplotlib, Seaborn, Plotly are used.
 GitHub is used as version control system.
 
-
-import the  lib.
-![image](https://user-images.githubusercontent.com/109716461/185745390-e7db1113-3653-47f5-af0f-aa5a46fd735f.png)
-
-load the data 
-![image](https://user-images.githubusercontent.com/109716461/185745410-f1038b6a-fc5a-4b3e-aa98-cc7e637cace4.png)
-
-see the data if they contain null values or not
-![image](https://user-images.githubusercontent.com/109716461/185745449-b45e87a1-dfba-4181-abea-b1eb3c8d27ea.png)
-![image](https://user-images.githubusercontent.com/109716461/185745452-e9175ec6-7997-4b61-934b-b6548a1c1f5f.png)
 
