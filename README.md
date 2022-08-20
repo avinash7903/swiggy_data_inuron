@@ -94,6 +94,11 @@ Jainager - The common 4.3 and Cost for Two People is 300rs.
 
 ## CHOSE YOUR FAV RESTURENTS AS THERE RATING
 
+
+
+https://user-images.githubusercontent.com/109716461/185749341-92e90b6c-673b-471b-bc54-03ab86a406ad.mp4
+
+
 ## Documentation
 
 [High Level Docs](https://drive.google.com/file/d/1C7ax-WovzfI9_Po8ef-6tTXEx8fOj5vQ/view?usp=sharing)
