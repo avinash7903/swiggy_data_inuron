@@ -14,9 +14,13 @@ specially prepared for direction consumption.
 tools i use:
 
 Jupyter Notebook is used as code.
+
 Pandas is used for Data Pre-processing.
+
 python for coding 
+
 For visualization of the Matplotlib, Seaborn, Plotly are used.
+
 GitHub is used as version control system.
 
 
